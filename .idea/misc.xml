@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PlaceBook/app/src/main/res/layout/activity_bookmark_details.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PlaceBook/app/src/main/res/layout/activity_maps.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PlaceBook/app/src/main/res/layout/bookmark_item.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PlaceBook/app/src/main/res/layout/drawer_view_maps.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PlaceBook/app/src/main/res/layout/main_view_maps.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PlaceBook/app/src/main/res/menu/menu_bookmark_details.xml" value="0.152" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/PlaceBook/app/src/main/res/xml/file_path.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

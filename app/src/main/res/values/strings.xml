@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PlaceBook</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="bookmark_image">Bookmark Image</string>
+    <string name="notes">Notes</string>
+    <string name="enter_notes">Enter notes</string>
+    <string name="phone">Phone</string>
+    <string name="phone_number">Phone number</string>
+    <string name="address">Address</string>
+    <string name="name">Name</string>
+    <string name = "open_drawer">Open Drawe</string>
+    <string name = "close_drawer">Close Drawer</string>
+    <string name="category">Category</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+
+</resources>
